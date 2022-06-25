@@ -1,0 +1,222 @@
+{
+  "1": {
+    "name": "Arabian sea",
+    "c1": 2,
+    "c2": 3,
+    "story": "Nemo is missing . You are Nemo's friend . You are an Amphibian . You're able to breathe both on land and in water .You Let's start looking for him .He is a tiny fish in this vast ocean . It's gonna be a long journey ! You have 2 choices . 1 swim aimlessly or 2 Take help from an investigative agency .",
+    "nav": "Press 1 to swim aimlessly , Press 2 to go to an investigative agency",
+    "win": 0,
+    "Die": 0,
+    "stranger": 0
+  },
+  "2": {
+    "name": "swim",
+    "c1": "",
+    "c2": "",
+    "story": "Why would you think he's here . This is so far from home .",
+    "nav": "",
+    "win": 0,
+    "Die": 1,
+    "stranger": 1
+  },
+  "3": {
+    "name": "World ocean investigative",
+    "c1": 4,
+    "c2": "",
+    "story": "An old shack welcomes you . The board has \"World ocean investigative \" written on it.",
+    "nav": "Press 1 to go to go to the reception",
+    "win": 0,
+    "Die": 0,
+    "stranger": 0
+  },
+  "4": {
+    "name": "shack",
+    "c1": 5,
+    "c2": 6,
+    "story": "You enter the shack ! The shack isn't as bad as it feels from outside . There is another room in the shack . SEEMS DARK . And a helpline number incase you find no one in the lobby .",
+    "nav": "Press 1 to go to the dark room (hey , maybe someone is there ) or Press 2 to call the helpline",
+    "win": 0,
+    "Die": 0,
+    "stranger": 0
+  },
+  "5": {
+    "name": "Shark",
+    "c1": "",
+    "c2": "",
+    "story": "Why would you even enter a dark room in a completely strange looking shack . A strange looking shark  pounces on you and eats you . You died 'cause you couldn't choose right . IT'S NOT ME . IT'S YOU",
+    "nav": "",
+    "win": 0,
+    "Die": 1,
+    "stranger": 0
+  },
+  "6": {
+    "name": "Helpline",
+    "c1": 7,
+    "c2": "",
+    "story": "You call the helpline and an investigator meets you in the reception . He asks you the last whereabouts of Nemo . He wants to see the spot where you saw Nemo for the last time",
+    "nav": "press 1 to take the investigator to the last seen spot",
+    "win": 0,
+    "Die": 0,
+    "stranger": 0
+  },
+  "7": {
+    "name": "Crime spot",
+    "c1": 8,
+    "c2": "",
+    "story": "The investigator looks around . But oops !! The evidence is destroyed in water . He suggests to take the help of police",
+    "nav": "press 1 to go to go to the police station",
+    "win": 0,
+    "Die": 0,
+    "stranger": 0
+  },
+  "8": {
+    "name": "Police Station",
+    "c1": 9,
+    "c2": 10,
+    "story": "The police is busy . But investigator suggested bribing one of the officers to get the things done easily or wait till you find a honest police officer (which may take time! )",
+    "nav": "press 1 to bribe the police or 2 to wait for a honest police officer",
+    "win": 0,
+    "Die": 0,
+    "stranger": 1
+  },
+  "9": {
+    "name": "bribe",
+    "c1": "",
+    "c2": "",
+    "story": "Bribing is a punishable offense . And you can get a jail term upto 14 years . Your ass is out of my game !",
+    "nav": "",
+    "win": 0,
+    "Die": 1,
+    "stranger": 0
+  },
+  "10": {
+    "name": "Honest Police",
+    "c1": 11,
+    "c2": "",
+    "story": "Yay ! You waited and you met a very honest police officer who wants to help you with your nemo's case . He asks you to wait in his office",
+    "nav": "press 1 to go to his office",
+    "win": 0,
+    "Die": 0,
+    "stranger": 0
+  },
+  "11": {
+    "name": "office",
+    "c1": 12,
+    "c2": 13,
+    "story": "You waited in the office and the police officer came 2 tips about nemo . He says Nemo is either in antarctica or in Bali sea . You decide to follow the tips . Now choose",
+    "nav": "press 1 to go to Antarctica and 2 to go to Bali",
+    "win": 0,
+    "Die": 0,
+    "stranger": 1
+  },
+  "12": {
+    "name": "Antarctica",
+    "c1": "",
+    "c2": "",
+    "story": "I understand you are an Amphibian and that shit gives you lot of confidence . But You just froze to death . And anyways Nemo hated winters . You knew that !",
+    "nav": "",
+    "win": 0,
+    "Die": 1,
+    "stranger": 0
+  },
+  "13": {
+    "name": "Bali",
+    "c1": 14,
+    "c2": 15,
+    "story": "You decided to go to Bali to follow the tip . Bali is a tropical island . You land in the airport . You see a random cab and you have an option to call a registered cab . Registered cab will take time to come .",
+    "nav": "press 1 to enter the random cab or press 2 to wait for the registered cab",
+    "win": 0,
+    "Die": 0,
+    "stranger": 1
+  },
+  "14": {
+    "name": "random cab",
+    "c1": "",
+    "c2": "",
+    "story": "You didn't know what you were getting into . The driver takes your possessions and kills you . You're dead",
+    "nav": "",
+    "win": 0,
+    "Die": 1,
+    "stranger": 0
+  },
+  "15": {
+    "name": "registered cab",
+    "c1": 16,
+    "c2": 17,
+    "story": "You chose right ! The registered cab driver safely takes you to the hotel near the beach and you have now access to the closest waterbody . You have two options . Start searching the hotels and then move to waterbody or search in the sea",
+    "nav": "Press 1 to choose hotels or press 2 for searching the sea",
+    "win": 0,
+    "Die": 0,
+    "stranger": 1
+  },
+  "16": {
+    "name": "Hotels",
+    "c1": "",
+    "c2": "",
+    "story": "I don�t know how dumb you can be ! Nemo's a fish ! Game over",
+    "nav": "",
+    "win": 0,
+    "Die": 1,
+    "stranger": ""
+  },
+  "17": {
+    "name": "Bali Sea",
+    "c1": 18,
+    "c2": "",
+    "story": "You enter the sea at night ! You are lost again . It's a huge space . To start , you decide to observe the fish movement patterns of the sea .",
+    "nav": "press 1 to observe the fish",
+    "win": 0,
+    "Die": 0,
+    "stranger": 0
+  },
+  "18": {
+    "name": "observe",
+    "c1": 19,
+    "c2": 20,
+    "story": "While observing you find a school of fish . You can either decide to check the school or avoid them and focus on observation .",
+    "nav": "press 1 to check the school or 2 to avoid them",
+    "win": 0,
+    "Die": 0,
+    "stranger": 0
+  },
+  "19": {
+    "name": "avoid",
+    "c1": "",
+    "c2": "",
+    "story": "Why did you avoid ? What If Nemo was in that school ? Now you ain't gonna get him .",
+    "nav": "",
+    "win": 0,
+    "Die": 1,
+    "stranger": 0
+  },
+  "20": {
+    "name": "School",
+    "c1": 21,
+    "c2": 22,
+    "story": "You see some kids and there !! YOU FOUND NEMO . But what is it ? Who is he with ? OHHHHHHH he ran away with his boyfriend ! Tough world to be gay . He asks for your blessings and acceptance",
+    "nav": "press 1 to accept him press 2 to Reject him",
+    "win": 0,
+    "Die": 0,
+    "stranger": 1
+  },
+  "21": {
+    "name": "Reject",
+    "c1": "",
+    "c2": "",
+    "story": "Showed your true colours eh ! OUT OF MY GAME I'd say but It's okay . Take your time to understand your friend . Be happy in his happiness .",
+    "nav": "",
+    "win": 0,
+    "Die": 1,
+    "stranger": 0
+  },
+  "22": {
+    "name": "Accept",
+    "c1": "",
+    "c2": "",
+    "story": "A true friend ! You've found Nemo ! And you've proved yourself to be a true friend . Happy Journey back !",
+    "nav": "",
+    "win": 1,
+    "Die": 0,
+    "stranger": 0
+  }
+}
